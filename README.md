@@ -1,7 +1,7 @@
 # ASP.NET_OpenCVSharp_Sample
 ASP.NETとOpenCVSharpによる画像処理プログラム
 
-Microsoft Azure上にある画像を読み込んで、画像処理を行うWebアプリ。
+Microsoft Azure上にある画像を読み込んで、画像処理を行うWebアプリケーション
 
 OpenCVSharpで実装してある画像処理
 1.グレースケール変換
